@@ -6,7 +6,7 @@ A simple torrent searcher bot made in python
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SpEcHiDe/PSonOfLars_BHMarie/tree/initial)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anandpskerala/TorrentSearcherBot/tree/initial)
 
 ##### Required Variables
 
