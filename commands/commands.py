@@ -11,7 +11,7 @@ from config import START_MESSAGE
 from helpers.torrent import torrent_search
 
 def start(update: Update, context: CallbackContext):
-    context.bot.send_message(chat_id=update.effective_chat.id, text=f"{START_MESSAGE}", parse_mode="Markdown")
+    context.bot.send_message(chat_id=update.effective_chat.id, text=START_MESSAGE, parse_mode="Markdown")
 
 def torrent(update: Update, content: CallbackContext):
     if update.message.via_bot != None:
