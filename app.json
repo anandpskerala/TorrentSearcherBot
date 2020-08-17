@@ -1,0 +1,38 @@
+{
+    "name": "GPlink_Bot",
+    "description": "A simple torrent searcher bot made in python. Create your Fork now.",
+    "keywords": [
+        "telegram",
+        "torrent",
+        "searcher"
+    ],
+    "website": "https://github.com/Anandpskerala/TorrentSearcherBot",
+    "repository": "https://github.com/Anandpskerala/TorrentSearcherBot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your bot token",
+            "value": ""
+        },
+        "START_MESSAGE": {
+            "description": "",
+            "value": "*Hi ! I am a simple torrent searcher using @sjprojects's Torrent Searcher api.\n\n\nMade with 🐍 by @KeralasBots*"
+        },
+        "FOOTER_TEXT": {
+            "description": "",
+            "value": "*Made with ❤️ by @KeralasBots*",
+            "required": false
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
