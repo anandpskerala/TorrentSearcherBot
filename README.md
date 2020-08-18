@@ -1,6 +1,5 @@
 # TorrentSearcherBot
-A simple torrent searcher bot made in python
-
+A Simple Torrent Searcher Telegram Bot Made in Python.
 
 ### Installation
 
@@ -14,3 +13,10 @@ A simple torrent searcher bot made in python
 
 * `START_MESSAGE`: Create your own start message
 * `FOOTER_TEXT`: Create your own Footer text
+
+
+## Community
+
+- Catch On Telegram : [@Torrent_SearcherBot](https://t.me/Torrent_SearcherBot)
+- Telegram Support Chat : [@KeralasBots](https://t.me/KeralasBots)
+- Telegram Updates Channel : [KeralaBotsNews](https://t.me/KeralaBotsNews)
