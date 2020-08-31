@@ -1,6 +1,24 @@
 # TorrentSearcherBot
 A Simple Torrent Searcher Telegram Bot Made in Python.
 
-- Catch On Telegram : [@Torrent_SearcherBot](https://t.me/Torrent_SearcherBot)
-- Telegram Support Chat : [@KeralasBots](https://t.me/KeralasBots)
-- Telegram Updates Channel : [KeralaBotsNews](https://t.me/KeralaBotsNews)
+
+### Installation
+
+#### The Easy Way
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anandpskerala/TorrentSearcherBot/tree/initial)
+
+##### Required Variables
+
+* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
+
+* `START_MESSAGE`: Create your own start message
+* `FOOTER_TEXT`: Create your own Footer text
+
+
+## Community
+
+- Catch On Telegram : [@Torrent_SearcherBot](https://telegram.dog/Torrent_SearcherBot)
+- Telegram Support Chat : [@KeralasBots](https://telegram.dog/KeralasBots)
+- Telegram Updates Channel : [KeralaBotsNews](https://telegram.dog/KeralaBotsNews)
+
