@@ -12,6 +12,8 @@ Special thanks to [Sumanjay](https://github.com/cyberboysumanjay) for his wonder
 
 ##### Required Variables
 
+* `API_ID`: Get it from [my.telegram.org](https://my.telegram.org)
+* `API_HASH`: Get it from [my.telegram.org](https://my.telegram.org)
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 
 * `START_MESSAGE`: Create your own start message
