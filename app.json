@@ -9,6 +9,14 @@
     "website": "https://github.com/Anandpskerala/TorrentSearcherBot",
     "repository": "https://github.com/Anandpskerala/TorrentSearcherBot",
     "env": {
+        "API_ID": {
+            "description": "Get it from my.telegram.org",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Get it from my.telegram.org",
+            "value": ""
+        },
         "BOT_TOKEN": {
             "description": "Your bot token",
             "value": ""
